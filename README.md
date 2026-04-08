@@ -19,4 +19,4 @@
 
 
 ## 📈 Estatísticas:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=j4oxdnp&show_icons=true&theme=dark)
