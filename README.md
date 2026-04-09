@@ -4,7 +4,6 @@
 ☁️ AWS | Azure | Hybrid Cloud  
 🔐 Segurança | Observabilidade | Automação  
 
----
 
 ## 🧠 Sobre mim
 
@@ -22,7 +21,6 @@ Atualmente liderando iniciativas de:
 - 🔧 Automação & Scripting
 - 🔐 Segurança operacional (SecOps)
 
----
 
 ## 🛡️ Segurança & Observabilidade
 
@@ -34,7 +32,6 @@ Atualmente liderando iniciativas de:
 - 🌐 Segurança de rede (Firewall, RADIUS, VLANs)
 - 💾 Estratégias de backup e recuperação (Veeam, Ahsay)
 
----
 
 ## 🛠️ Stack Tecnológica
 
@@ -62,7 +59,6 @@ Atualmente liderando iniciativas de:
 - Bash
 - Integrações (Forms, APIs, scripts)
 
----
 
 ## 🚀 Projetos em Destaque
 
@@ -85,13 +81,11 @@ Atualmente liderando iniciativas de:
 🔹 **AD User Provisioning Automation**
 - Automação completa via Power Automate + PowerShell
 - Integração com M365 e Entra ID
----
 
 ## 📈 Estatísticas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=j4oxdnp&show_icons=true&theme=dark)
 
----
 
 ## 📫 Contato
 
@@ -99,7 +93,6 @@ Atualmente liderando iniciativas de:
 - 💼 LinkedIn: (coloca aqui)
 - ✉️ Email: (opcional)
 
----
 
 ## 🚀 Em evolução constante
 
