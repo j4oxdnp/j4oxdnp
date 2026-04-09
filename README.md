@@ -84,7 +84,7 @@ Atualmente liderando iniciativas de:
 
 ## 📈 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=j4oxdnp&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=j4oxdnp&theme=tokyonight)
 
 
 ## 📫 Contato
