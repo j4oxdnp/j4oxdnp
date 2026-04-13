@@ -90,8 +90,7 @@ Atualmente liderando iniciativas de:
 ## 📫 Contato
 
 - 📍 Campinas - SP
-- 💼 LinkedIn: (coloca aqui)
-- ✉️ Email: (opcional)
+- 💼 LinkedIn: https://linkedin.com/in/joao-biscassi
 
 
 ## 🚀 Em evolução constante
